@@ -1,5 +1,5 @@
-def add(num):
-  pass
+def add(num1, num2):
+  return num1 + num2
   
-def substract(num):
-  pass
+def substract(num1, num2):
+  return num1 - num2
